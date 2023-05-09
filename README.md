@@ -8,3 +8,12 @@ Fitur:
 - Story
 - Comment
 - Like
+
+# Hello World
+
+```c
+void main()
+{
+    printf("Hello World");
+}
+```
